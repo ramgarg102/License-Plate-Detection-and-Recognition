@@ -1,2 +1,2 @@
 # License-Plate-Detection-and-Recognition
-A license plate detector and recognizer.
+License plate detector and recognizer using yolov4 and tesseract.
