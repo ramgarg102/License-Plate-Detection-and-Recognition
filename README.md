@@ -2,9 +2,9 @@
 License plate detector and recognizer using yolov4 and tesseract.
 ## Inroduction
 The aim of this project is to detect and recognize number plates in a live or captured video. 
-The weights for detection are trained over 2000 epochs on 671 images of vehicles with coordinates of the bounding boxes.
+The model is trained over 2000 epochs on 671 vehicle images and bounding box coordinates.
 ## Main Technologies
-* yolov4
+* Yolov4
 * Tesseract
 * Opencv
 ## Illustration
